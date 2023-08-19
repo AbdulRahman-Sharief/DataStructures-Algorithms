@@ -1,8 +1,8 @@
-# dataStructures-algorithms-course
+# dataStructures-Algorithms-course
 
 ## Contents
 
-- [dataStructures-algorithms-course](#dataStructures-algorithms-course)
+- [dataStructures-Algorithms-course](#dataStructures-Algorithms-course)
   - [Contents](#contents)
   - [Big O](#big-o)
     - [Big O of Objects](#big-o-of-objects)
