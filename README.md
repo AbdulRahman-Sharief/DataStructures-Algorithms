@@ -1,8 +1,8 @@
-# colt-algorithm-course
+# dataStructures-algorithms-course
 
 ## Contents
 
-- [colt-algorithm-course](#colt-algorithm-course)
+- [dataStructures-algorithms-course](#dataStructures-algorithms-course)
   - [Contents](#contents)
   - [Big O](#big-o)
     - [Big O of Objects](#big-o-of-objects)
